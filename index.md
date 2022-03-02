@@ -4,8 +4,7 @@
 
 ### Category Name 1 
 
-[My CV]
-<img src="images/Metref_CV.pdf?raw=true"/>
+[My CV](/pdf/Metref_CV.pdf) 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
