@@ -17,7 +17,7 @@ I am a scientific researcher at MEOM-IGE, Université Grenoble Alpes. I have spe
 
 ---
 
-## My curriculum vitae
+## My qualifications
 
 My CV in [French](/pdf/Metref_CV.pdf) and in [English](/pdf/Metref_CV.pdf).
 
