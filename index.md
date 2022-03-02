@@ -1,5 +1,3 @@
-
-
 ## About
 
 <div align="justify">
@@ -11,13 +9,17 @@ I am a scientific researcher at MEOM-IGE, Université Grenoble Alpes. I have spe
 <img src="images/enatl60_GS.png?raw=true"/>
 ---
 
-## My activities
+## My current activities
+
+---
+
+## My past projects
 
 
 ---
 
-## Curriculum vitae
+## My curriculum vitae
 
-[My CV in French](/pdf/Metref_CV.pdf) 
+My CV in [French](/pdf/Metref_CV.pdf) and in [English](/pdf/Metref_CV.pdf).
 
  
