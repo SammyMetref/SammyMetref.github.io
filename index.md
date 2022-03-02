@@ -3,15 +3,17 @@
 ## About
 
 <div align="justify">
-I have been working for several years in different mathematical and physical fields using data assimilation (cryptography, climatology, oceanography). 
-These experiences have allowed me to aquire a fine expertise in data assimilation and geosciences. 
-Today, my main field of research is improving oceanographic altimetric reconstruction from satellite observations using data assimilation. 
+I am a scientific researcher at MEO-IGE, Université Grenoble Alpes. I have specialized in data assimilation and inverse methods for oceanographic applications. In particular, I am working on the BOOST-SWOT ANR project to update the DUACS optimal interpolation method in anticipation of the SWOT satellite data. More recently, I have acquired an expertise in the formulation of data challenges with, amongst others, the creation of the [ocean-data-challenges](https://github.com/ocean-data-challenges).  
 </div>
  
 
 ---
+## My activities
 
-### Curriculum vitae
+
+---
+
+## Curriculum vitae
 
 [My CV in French](/pdf/Metref_CV.pdf) 
 
