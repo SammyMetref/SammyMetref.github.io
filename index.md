@@ -6,9 +6,8 @@
 
 [My CV](/pdf/Metref_CV.pdf) 
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+--- 
+<img src="images/dummy_thumbnail.jpg?raw=true"/>(/pdf/sample_presentation.pdf)
 
 ---
 [Project 3 Title](http://example.com/)
