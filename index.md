@@ -1,28 +1,17 @@
-## Website in construction
+
+
+## About
+
+I have been working for several years in different mathematical and physical fields using data assimilation (cryptography, climatology, oceanography). 
+These experiences have allowed me to aquire a fine expertise in data assimilation and geosciences. 
+Today, my main field of research is improving oceanographic altimetric reconstruction from satellite observations using data assimilation. 
+
+ 
 
 ---
 
-### Category Name 1 
+### Curriculum vitae
 
 [My CV in French](/pdf/Metref_CV.pdf) 
-
---- 
-[Project 3 Title] 
-
----
-[Project 3 Title] 
-
----
-
-### Category Name 2
-
-- [Project 1 Title] 
-- [Project 2 Title] 
-- [Project 3 Title] 
-- [Project 4 Title] 
-- [Project 5 Title] 
-
----
-
 
  
