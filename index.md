@@ -1,10 +1,10 @@
-## Resume
+## Website in construction
 
 ---
 
 ### Category Name 1 
 
-[My CV](/pdf/Metref_CV.pdf) 
+[My CV in French](/pdf/Metref_CV.pdf) 
 
 --- 
 [Project 3 Title](/pdf/sample_presentation.pdf)
