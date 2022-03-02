@@ -6,8 +6,7 @@ I am a scientific researcher at MEOM-IGE, Université Grenoble Alpes. I have spe
  
 
 ---
-<img src="images/enatl60_GS.png?raw=true"/>
----
+<img src="images/enatl60_GS.png?raw=true" width="200"/> 
 
 ## My current activities
 
