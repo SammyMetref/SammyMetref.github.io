@@ -10,15 +10,21 @@ I am a scientific researcher at MEOM-IGE, Université Grenoble Alpes. I have spe
 
 ## My current activities
 
+- BOOST-SWOT project 
+- Collaborative data challenges
+
 ---
 
 ## My past projects
 
+- Data assimilation for hydrological predictions, EDF project 
+- Climate change detection and attribution with data assimilation, DADA project
+- Data assimilation in a non-Gaussian context, Sangoma project
 
 ---
 
 ## My qualifications
 
-My CV in [French](/pdf/Metref_CV.pdf) and in [English](/pdf/Metref_CV.pdf).
+My CV in [French](/pdf/Qualification_2021_Metref_CV_French.pdf) and in [English](/pdf/Qualification_2021_Metref_CV_English.pdf).
 
  
