@@ -10,16 +10,16 @@ I am a scientific researcher at MEOM-IGE, Université Grenoble Alpes. I have spe
 
 ## My current activities
 
-- BOOST-SWOT project 
-- Collaborative data challenges
+- <a href="https://anr.fr/Project-ANR-17-CE01-0009">BOOST-SWOT project</a> 
+- <a href="https://github.com/ocean-data-challenges">Collaborative data challenges</a> 
 
 ---
 
 ## My past projects
 
 - Data assimilation for hydrological predictions, EDF project 
-- Climate change detection and attribution with data assimilation, DADA project
-- Data assimilation in a non-Gaussian context, Sangoma project
+- Climate change detection and attribution with data assimilation, <a href="https://anr.fr/Project-ANR-13-JS06-0007">DADA project</a> 
+- Data assimilation in a non-Gaussian context, <a href="http://www.data-assimilation.net">Sangoma project</a> 
 
 ---
 
